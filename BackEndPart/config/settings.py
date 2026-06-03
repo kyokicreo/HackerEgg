@@ -2,6 +2,9 @@
 Lev ty chort
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXloXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  
+
+
+iskander agai vy kak pospala
 """
 
 from pathlib import Path
