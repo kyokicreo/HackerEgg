@@ -4,6 +4,10 @@ Lev ty chort
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXloXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  
 
 
+
+For the full list of settings and their values, see
+hi
+
 iskander agai vy kak pospala
 """
 
